@@ -16,9 +16,9 @@
     
 <!-- start Nav -->
 
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark pl-5 fixed-top">
+<nav class="navbar navbar-expand-sm navbar-dark pl-5 fixed-top">
   <a class="navbar-brand" href="index.php">eLearn</a>
-  <span class="navbar-text">Learn wthout Hustle</span>
+  <span class="navbar-text">Learn without Hustle</span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -78,6 +78,164 @@
 
 </div>
 <!-- end Text Banner -->
+
+
+<!--start Most Popular Courses -->
+<div class="container mt-5">
+<h1 class="text-center">Popular Courses</h1>
+
+<!-- First Card -->
+<div class="card-deck mt-4">
+<a href="#" class="btn" style="text-align:left; padding:0px; margin:0px;">
+
+<div class="card">
+    <img src="images/english1.jpg" class="card-img-top" alt="English" />
+    <div class="card-body">
+        <h5 class="card-title">Learn English the Easy Way</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 2000</del></small><span class="font-weight-bolder">&#8377 200</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+<a href="#" class="btn" style="text-align:left; padding:0px; margin:0px;">
+
+<div class="card">
+    <img src="images/english1.jpg" class="card-img-top" alt="English" />
+    <div class="card-body">
+        <h5 class="card-title">Learn English the Easy Way</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 2000</del></small><span class="font-weight-bolder">&#8377 200</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+<a href="#" class="btn" style="text-align:left; padding:0px; margin:0px;">
+
+<div class="card">
+    <img src="images/english1.jpg" class="card-img-top" alt="English" />
+    <div class="card-body">
+        <h5 class="card-title">Learn English the Easy Way</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 2000</del></small><span class="font-weight-bolder">&#8377 200</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+</div>
+<!-- End of First Card -->
+
+<!-- Start 2nd Card -->
+
+<div class="card-deck mt-4">
+<a href="#" class="btn" style="text-align:left; padding:0px;">
+
+<div class="card">
+    <img src="images/python.jpg" class="card-img-top" alt="Python" />
+    <div class="card-body">
+        <h5 class="card-title">Learn Python</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 3000</del></small><span class="font-weight-bolder">&#8377 300</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+<a href="#" class="btn" style="text-align:left; padding:0px;">
+
+<div class="card">
+    <img src="images/python.jpg" class="card-img-top" alt="Python" />
+    <div class="card-body">
+        <h5 class="card-title">Learn Python</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 3000</del></small><span class="font-weight-bolder">&#8377 300</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+<a href="#" class="btn" style="text-align:left; padding:0px;">
+
+<div class="card">
+    <img src="images/python.jpg" class="card-img-top" alt="Python" />
+    <div class="card-body">
+        <h5 class="card-title">Learn Python</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil illum libero delectus adipisci, beatae laudantium.</p>
+    </div>
+    <div class="card-footer">
+        <p class="card-text d-line">Price: <small><del>&#8377 3000</del></small><span class="font-weight-bolder">&#8377 300</span></p>
+        <a class="btn btn-primary text-white font-white font-weight-bolder float-right" href="#">Enroll</a>
+    </div>
+</div>
+</a>
+</div>
+
+<!-- End 2nd Card -->
+
+<div class="text-center m-2">
+<a class="btn btn-danger btn-sm" href="#">View All Courses</a>
+</div>
+
+</div>
+<!--end Most Popular Courses -->
+
+
+<!-- start Contact Us -->
+
+<div class="container mt-4" id="Contact">
+
+<h2 class="text-center mb-4">Contact Us</h2>
+
+<div class="row">
+<div class="col-md-8">
+    <form action="" method="post">
+       <input type="text" class="form-control" name="name" placeholder="Name"><br>
+       <input type="text" class="form-control" name="subject" placeholder="Subject"><br>
+       <input type="email" class="form-control" name="email" placeholder="E-mail"><br>
+       <textarea class="form-control" name="message" placeholder="How can we help you?" style="height:150px;"></textarea><br>
+       <input class="btn btn-primary" value="Send" name="submit" type="submit"><br><br>
+    </form>
+</div>
+
+<!-- 2nd column -->
+<div class="col-md-4 stripe contact-us-sec-column text-white text-center">
+
+<h4>eLearn</h4>
+<p>eLearn,
+Near Police Camp 11, Borako,
+Bulawayo -B <br>
+Phone: +90 531 7159253 <br>
+www.eLearn.com 
+</p>
+
+</div>  
+
+</div>
+
+</div>
+
+<!-- End Contact Us -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     <script src="js/jquery.min.js"></script>
